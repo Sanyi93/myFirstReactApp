@@ -1,2 +1,2 @@
 # myFirstReactApp
-firstReactApp
+firstReactApp creared for educational purposes
